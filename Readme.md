@@ -7,6 +7,8 @@
   - [1.1 文档](./esp/ble-gatt/Readme.md)
 - [2.HTTP服务](./esp/web/src)
   - [2.1文档](./esp/web/Readme.md)
+- [3.mpu6050](./esp/mpu6050/src)
+  - [3.1文档](./esp/mpu6050/Readme.md)
 ### stm32
 
 
