@@ -19,4 +19,5 @@ esp_err_t root_handler(httpd_req_t *req)
 }
 ```
 3.目前只注册了一个路由，后续可以自己扩展
+
 4.烧录完成后，打开idf.py monitor查看ip地址，打开浏览器输入ip即可看见http网页
